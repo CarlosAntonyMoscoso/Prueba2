@@ -7,7 +7,9 @@ public class Prueba {
 		System.out.println("Hola mundo");
 		System.out.println("hol");
 		System.out.println("adios");
-
+		
+		System.out.println("Asereje");
+		System.out.println("De aqui a la nasa");
 	}
 
 }
