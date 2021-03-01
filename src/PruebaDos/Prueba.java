@@ -9,7 +9,7 @@ public class Prueba {
 		System.out.println("adios");
 		
 		System.out.println("Asereje");
-		System.out.println("De aqui a la nasa");
+		System.out.println("De aqui a la lnasa");
 	}
 
 }
