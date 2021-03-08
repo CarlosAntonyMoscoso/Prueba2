@@ -12,6 +12,7 @@ public class Prueba {
 		System.out.println("De aqui a la lnasa");
 		
 		System.out.println("Holaaaaaaaaaaaaaaaaaaa");
+		System.out.println("adios");
 	}
 
 }
