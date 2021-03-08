@@ -10,6 +10,10 @@ public class Prueba {
 		
 		System.out.println("Asereje");
 		System.out.println("De aqui a la lnasa");
+		
+		System.out.println("Holaaaaaaaaaaaaaaaaaaa");
+		System.out.println("adios");
+		System.out.println("que tal");
 	}
 
 }
